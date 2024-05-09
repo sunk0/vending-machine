@@ -1,7 +1,5 @@
 # Basic vending machine app with fake-data microservice
 
-# Built with create-react-app, no conteinerization due to app simplicity for interview
-
 How to start app?
 
 Without docker
