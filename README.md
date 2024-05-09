@@ -4,7 +4,7 @@ How to start app?
 
 Without docker
 
-# cd to /src and execute npm start to start react-app
+# cd to root and execute npm start to start react-app
 
 # cd to /src/api and execute npm start to start fake-api microservice
 
